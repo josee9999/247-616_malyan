@@ -6,6 +6,7 @@
 //pour des explications
 //un bon site: http://unixwiz.net/techtips/termios-vmin-vtime.html
 
+#define _GNU_SOURCE
 //INCLUSIONS
 #include <string.h>
 #include <unistd.h>
